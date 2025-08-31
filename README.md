@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubaru</h1>
+<h1 align="center">Hemlo, I'm Shubaru</h1>
 <h3 align="center">A duck with a dream.</h3>
 
 <p align="center">
