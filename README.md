@@ -33,12 +33,16 @@
     <td valign="top" style="padding: 10px;">
       <div>
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="discord logo"  />
-        <br><br>
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"  />
-        <br><br>
+        <br>
+        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd93812e-56f6-460f-9cd2-3346a0dfd5ef/dd639y2-330dfd1a-9fb8-45a4-ad67-6ef2e4893503.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkOTM4MTJlLTU2ZjYtNDYwZi05Y2QyLTMzNDZhMGRmZDVlZlwvZGQ2Mzl5Mi0zMzBkZmQxYS05ZmI4LTQ1YTQtYWQ2Ny02ZWYyZTQ4OTM1MDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.N1etDsibWzKrzGfy_-lEUoSiWzFgHlObM_g7CvUcYrw" width="50" height="50" alt="custom gif" />
+        <br>
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="50" alt="codepen logo"  />
-        <br><br>
+        <br>
+        <img src="https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" width="50" height="50" alt="teabag gif" />
+        <br>
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="telegram logo"  />
+        <br>
+        <img src="https://static.tumblr.com/5d8cc951fc3a05041625ce036d778d58/q17li7m/5W4n25a49/tumblr_static_totoro2.gif" width="50" height="50" alt="totoro">
       </div>
     </td>
   </tr>
