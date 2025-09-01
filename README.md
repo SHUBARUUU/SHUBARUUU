@@ -1,53 +1,45 @@
+<h3 align="center">Ducks will take over the world, I swear - Shuba 🦆</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="400" src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif"  />
+
+###
+
 <div align="center">
-
-<h1>Hemlo, I'm Shubaru</h1>
-<h3>A duck with a dream.</h3>
-
-<p>⚡ Fun fact: <b>Ducks will rule over the world, I Swear.</b></p>
-
-<!-- GIF on top -->
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td>
-      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" width="650"/>
-    </td>
-  </tr>
-</table>
-
-
-<!-- Languages and tools icons in the middle with spacing -->
-<h3>Languages and Tools:</h3>
-<p> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 0 10px;"/> 
-  </a> 
-</p>
-
-<!-- GitHub stats and streak side by side -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shubaruuu&show_icons=true&theme=tokyonight&locale=en" alt="shubaruuu" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubaruuu&theme=dark" alt="shubaruuu" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubaru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Shubaru&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Shubaru/Shubaru/output/snake.svg" alt="Snake animation" />
+
+###
