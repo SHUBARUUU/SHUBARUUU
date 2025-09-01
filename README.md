@@ -32,13 +32,13 @@
     <!-- Third column (socials in column) -->
     <td valign="top" style="padding: 10px;">
       <div>
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="55" alt="discord logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="discord logo"  />
         <br><br>
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="55" alt="linkedin logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="linkedin logo"  />
         <br><br>
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="55" height="55" alt="codepen logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="50" height="50" alt="codepen logo"  />
         <br><br>
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="55" alt="telegram logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="50" alt="telegram logo"  />
       </div>
     </td>
   </tr>
