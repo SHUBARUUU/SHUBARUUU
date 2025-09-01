@@ -2,7 +2,7 @@
 <h3 align="center">Ducks will take over the world, I swear - Shuba 🦆</h3>
 <br>
 
-<table align="center" style="border-collapse: collapse; text-align: center;">
+<table align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <tr>
     <!-- First column (languages/tools in column) -->
     <td align="center" style="padding: 10px;">
@@ -25,12 +25,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px 0;"/> 
       </a>
     </td>
-    <!-- Middle column (GIF) -->
+    <!-- Middle column (GIF - responsive) -->
     <td align="center" style="padding: 10px;">
-      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" width="640"/>
+      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" style="max-width: 100%; height: auto;"/>
     </td>
     <!-- Third column (socials in column) -->
-    <td align="top" style="padding: 10px;">
+    <td valign="top" style="padding: 10px;">
       <div>
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="55" alt="discord logo"  />
         <br><br>
