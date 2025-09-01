@@ -27,7 +27,7 @@
     </td>
     <!-- Middle column (GIF - responsive) -->
     <td align="center" style="padding: 10px;">
-      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" style="width: 100%; max-width: 500px; height: auto;"/>
+      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" style="width: 100%; height: auto;"/>
     </td>
     <!-- Third column (socials in column) -->
     <td valign="top" style="padding: 10px;">
@@ -43,6 +43,7 @@
     </td>
   </tr>
 </table>
+<br><br>
 
 <!-- GitHub stats and streak side by side --> 
 <table align="center"> 
