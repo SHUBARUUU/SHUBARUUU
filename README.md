@@ -27,7 +27,7 @@
     </td>
     <!-- Middle column (GIF) -->
     <td align="center" style="padding: 10px;">
-      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" width="800"/>
+      <img src="https://media1.tenor.com/m/S9BVMZq1Vq8AAAAC/duck-duck-dance.gif" alt="duck dance" width="700"/>
     </td>
     <!-- Third column (socials in column) -->
     <td align="top" style="padding: 10px;">
