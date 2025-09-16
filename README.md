@@ -35,7 +35,7 @@
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="width: 3em; height: auto; margin: 0.5em 0;" alt="discord logo"/>
       </a><br>
       <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd93812e-56f6-460f-9cd2-3346a0dfd5ef/dd639y2-330dfd1a-9fb8-45a4-ad67-6ef2e4893503.gif" style="width: 3em; height: auto; margin: 0.5em 0;" alt="custom gif"/>
+        <img src="https://media1.tenor.com/m/sj22vV1zOb4AAAAC/popcat-popcatsolana.gif" style="width: 3em; height: auto; margin: 0.5em 0;" alt="custom gif"/>
       </a><br>
       <a href="#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" style="width: 3em; height: auto; margin: 0.5em 0;" alt="codepen logo"/>
