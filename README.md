@@ -1,11 +1,10 @@
 <div align="center"> 
 <h3 align="center">Ducks will take over the world, I swear - Shuba 🦆</h3>
 <br>
-
 <table align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <tr>
     <!-- Left column: Languages / Tools -->
-    <td align="center" style="padding: 1em;">
+    <td align="center" style="padding: 1em; width: 30%; vertical-align: middle;">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
       </a><br>
@@ -26,11 +25,11 @@
       </a>
     </td>
     <!-- Middle column: GIF -->
-    <td align="center" style="padding: 1em;">
-      <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" alt="duck dance" style="width: 100%; max-width: 20em; height: auto;"/>
+    <td align="center" style="padding: 1em; width: 40%; vertical-align: middle;">
+      <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" alt="duck dance" style="width: 200px; height: auto;"/>
     </td>
-    <!-- Right column: Social / Extra icons (stacked like left column) -->
-    <td align="center" style="padding: 1em;">
+    <!-- Right column: Social / Extra icons -->
+    <td align="center" style="padding: 1em; width: 30%; vertical-align: middle;">
       <a href="#" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="width: 3em; height: auto; margin: 0.5em 0;" alt="discord logo"/>
       </a><br>
@@ -52,7 +51,6 @@
     </td>
   </tr>
 </table>
-
 <!-- GitHub stats and streak side by side --> 
 <table align="center"> 
   <tr> 
@@ -61,5 +59,4 @@
     </td> 
   </tr> 
 </table> 
-
 </div>
