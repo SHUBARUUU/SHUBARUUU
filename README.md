@@ -1,62 +1,58 @@
-<div align="center"> 
-<h3 align="center">Ducks will take over the world, I swear - Shuba 🦆</h3>
-<br>
-<table align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
-  <tr>
-    <!-- Left column: Languages / Tools (6 rows per col) -->
-    <td align="center" style="padding: 1em; width: 25%; vertical-align: middle;">
-      <table>
-        <tr>
-          <!-- Col 1: icons 1-6 -->
-          <td align="center" style="vertical-align: top; padding: 0 0.3em;">
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 3em; height: auto; margin: 0.5em;"/></a>
-          </td>
-          <!-- Col 2: icons 7-12 -->
-          <td align="center" style="vertical-align: top; padding: 0 0.3em;">
-            <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 3em; height: auto; margin: 0.5em;"/></a><br>
-            <!-- ADD 2 MORE TECH STACKS HERE AND START ADDING COLS IF THERES MORE, DON'T FORGET THE <br> TAG -->
-          </td>
-          <!-- Col 3: add more TECH STACK here when needed -->
-        </tr>
-      </table>
-    </td>
-    <!-- Middle column: GIF -->
-    <td align="center" style="padding: 1em; width: 50%; vertical-align: middle;">
-      <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" alt="duck dance" style="width: 100%; max-width: 400px; height: auto;"/>
-    </td>
-    <!-- Right column: Socials (6 rows per col) -->
-    <td align="center" style="padding: 1em; width: 25%; vertical-align: middle;">
-      <table>
-        <tr>
-          <!-- Col 1: icons 1-6 -->
-          <td align="center" style="vertical-align: top; padding: 0 0.3em;">
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" style="width: 3em; height: auto; margin: 0.5em;" alt="discord"/></a><br>
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://media1.tenor.com/m/sj22vV1zOb4AAAAC/popcat-popcatsolana.gif" style="width: 3em; height: auto; margin: 0.5em;" alt="popcat"/></a><br>
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" style="width: 3em; height: auto; margin: 0.5em;" alt="codepen"/></a><br>
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" style="width: 3em; height: auto; margin: 0.5em;" alt="teabag"/></a><br>
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" style="width: 3em; height: auto; margin: 0.5em;" alt="telegram"/></a><br>
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://static.tumblr.com/5d8cc951fc3a05041625ce036d778d58/q17li7m/5W4n25a49/tumblr_static_totoro2.gif" style="width: 3em; height: auto; margin: 0.5em;" alt="totoro"/></a>
-          </td>
-          <!-- Col 2: add more socials here when needed -->
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<!-- GitHub stats --> 
-<table align="center"> 
-  <tr> 
-    <td> 
-      <img src="https://github-readme-stats.vercel.app/api?username=shubaruuu&show_icons=true&theme=tokyonight&locale=en" alt="shubaruuu" /> 
-    </td> 
-  </tr> 
-</table> 
+<h2 align="center">Ducks will take over the world, I swear - Shuba 🦆</h2>
+
+###
+
+<img align="right" height="300" src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBARUUU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<div align="center">
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+    <img width="15" />
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  </div>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://media1.tenor.com/m/sj22vV1zOb4AAAAC/popcat-popcatsolana.gif" alt="popcat" width="40"/>
+  <img src="https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" alt="teabag" width="40"/>
+  <img src="https://static.tumblr.com/5d8cc951fc3a05041625ce036d778d58/q17li7m/5W4n25a49/tumblr_static_totoro2.gif" alt="totoro" width="40"/>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Shuba&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&rotate=0&stroke=000000&strokeWidth=2&animation=twinkling&desc=._____________________.&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
