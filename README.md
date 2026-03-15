@@ -4,26 +4,38 @@
 <table align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
   <tr>
     <!-- Left column: Languages / Tools -->
-    <td align="center" style="padding: 1em; width: 25%; vertical-align: middle;">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a><br>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a><br>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a><br>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a><br>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
-      </a>
-    </td>
+<td align="center" style="padding: 1em; width: 25%; vertical-align: middle;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a><br>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 3em; height: auto; margin: 0.5em 0;"/> 
+  </a>
+</td>
     <!-- Middle column: GIF -->
     <td align="center" style="padding: 1em; width: 50%; vertical-align: middle;">
       <img src="https://media1.tenor.com/m/j2wYO4oiGbIAAAAd/pato.gif" alt="duck dance" style="width: 100%; max-width: 400px; height: auto;"/>
